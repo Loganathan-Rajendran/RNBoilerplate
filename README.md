@@ -29,7 +29,7 @@ $ npm install
 
 ## Getting Started
 
-1. Clone this repo, `git@github.com:Loganathan-Rajendran/SpeedMotors.git`
+1. Clone this repo, `git@github.com:Loganathan-Rajendran/RNBoilerplate.git'
 2. Go to project's root directory, `cd <your project name>`
 3. Run `yarn` to install dependencies
 
@@ -37,14 +37,14 @@ $ npm install
 
 Run command to open iOS simulator and run app:
 ```bash
-$ npm run ios
+$ yarn ios
 ```
 ### Android (5.0+)
 
 Open Android emulator (recommended [Genymotion](https://www.genymotion.com)) and
 run command: (Or connect real device via USB)``
 ```bash
-$ npm run android
+$ yarn android
 ```
 
 ## How To
